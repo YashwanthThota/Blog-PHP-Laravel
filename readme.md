@@ -1,9 +1,9 @@
 # Blogging Content Management system using PHP Laravel and MySQL:
 
 **DESCRIPTION:** 
-  - This is a PHP Laravel based Complete blogging content management application which enables the authorized user to create, update, delete posts.
+  - This is a PHP Laravel based Complete blogging content management application which enables the authorized user to create, update, delete posts in the blog.
   - The user can also manipulate the post categories and tags belonging to a post.
-  - The admin user can create a new authorized user 
+  - The viewers can comment to post and can also share the post to the social media platform like facebook, twitter, googleplus. 
   
 **FEATURES:**
   - In order to use this application's services, the user has to sign up with this application.
@@ -20,7 +20,7 @@
       - enabled 'Soft Delete' option for post deletion, so all the deleted posts were moved to 'trashed posts' category and from there the user can either recover or delete the post completely from the system. 
       - All the users, posts, tags, categories and image information is stored in the MySQL Database.
       - This application can handle and maintain individual records for each user.
-  - Blogsite: 
+  - **Blogsite:** 
       - The main site contains a list of categories and posts
       - The Website highlights the latest 3 posts(sorted based on timestamp) by displaying them with big thumbnail images.
       - The Page also displays atmost 3 latest posts(sorted based on timestamp) in each categories.
