@@ -8,6 +8,7 @@
 **FEATURES:**
   - In order to use this application's services, the user has to sign up with this application.
   - Enabled Validation to check whether the entered emailid and password are valid or not.
+  - This application mainly comprises 2 parts dashboard and mainsite.
     **Dashboard:**
       - Before creating a posts the application checks whether there is atleast on category or tag in existence, if not it will raise an  exception and disable the "Store Post"  button.
       - The user have to create categories and tags before posting something
