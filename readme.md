@@ -53,8 +53,8 @@
  
 - **Dashboard:**
   - **credientials:**
-    -**Email:** testuser@gmail.com
-    -**Password:** testuser
+   -**Email:** testuser@gmail.com
+   -**Password:** testuser
 
 
 
