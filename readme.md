@@ -20,7 +20,7 @@
       - enabled 'Soft Delete' option for post deletion, so all the deleted posts were moved to 'trashed posts' category and from there the user can either recover or delete the post completely from the system. 
       - All the users, posts, tags, categories and image information is stored in the MySQL Database.
       - This application can handle and maintain individual records for each user.
-  **-2. Blogsite:** 
+  - Blogsite: 
       - The main site contains a list of categories and posts
       - The Website highlights the latest 3 posts(sorted based on timestamp) by displaying them with big thumbnail images.
       - The Page also displays atmost 3 latest posts(sorted based on timestamp) in each categories.
