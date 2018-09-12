@@ -50,10 +50,12 @@
 **DEMO LINK(HOSTED IN HEROKU):**
 - **Mainsite:**
  (https://pure-mesa-60204.herokuapp.com/)
+ 
 - **Dashboard:**
- (https://pure-mesa-60204.herokuapp.com/login)
-  -**credientials:**
+  - **credientials:**
      -**Email:** testuser@gmail.com
      -**Password:** testuser
-- First nested list item
-  - Second nested list item
+
+ (https://pure-mesa-60204.herokuapp.com/login)
+
+
