@@ -3,6 +3,7 @@
 **DESCRIPTION:** 
   - This is a PHP Laravel based Complete blogging content management application which enables the authorized user to create, update, delete posts in the blog.
   - The user can also manipulate the post categories and tags belonging to a post.
+  - The user with 'Admin level permissions' can create a new user and he can also edit the permissions of the users. 
   - The viewers can comment to post and can also share the post to the social media platform like facebook, twitter, googleplus. 
   
 **FEATURES:**
