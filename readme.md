@@ -51,7 +51,7 @@
 - **Mainsite:**
  (https://pure-mesa-60204.herokuapp.com/)
 - **Dashboard:**
- (https://pure-mesa-60204.herokuapp.com/)
- **credientials:**
- **Email:** testuser@gmail.com
- **Password:** testuser
+ (https://pure-mesa-60204.herokuapp.com/login)
+   -**credientials:**
+     -**Email:** testuser@gmail.com
+     -**Password:** testuser
