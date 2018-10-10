@@ -45,7 +45,7 @@
 
  
 **LIBRARIES AND PACKAGES:**
- - **PHP Carbon API:** this is used for coverting the post timestamp to human understandable format
+ - **PHP Carbon API:** this is used for converting the post timestamp to human understandable format
  - **Toastr:** this bootstarp library is used to display the notification messages.
  
 **DEMO LINK(HOSTED IN HEROKU):**
